@@ -1,1 +1,1 @@
-# This folder contains google.clone version task solution
+# This folder contains Building a personal Website task solution
